@@ -5,6 +5,8 @@ name = "pypi"
 
 [packages]
 django = "*"
+selenium = "*"
+requests = "*"
 
 [dev-packages]
 
